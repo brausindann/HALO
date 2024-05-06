@@ -1,0 +1,68 @@
+
+body{background-color: rgb(10, 24, 54);}
+
+
+
+
+
+#jefe{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(37, 149, 194);
+    background-image:url(image/John-117_infobox_HI.webp);
+    background-size: 220px;
+    background-position: center;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid rgb(201, 141, 11) ;
+    float: left;
+    
+}
+
+#cortana{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(134, 255, 198);
+    background-image:url(image/Cortana_halo_5.webp) ;
+    background-position: center;
+    background-size: 270px;
+    background-repeat: no-repeat;
+    padding: 50px;
+    border: 5px solid darkblue ;
+    float: left;
+}
+
+#inquisidor{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(25, 209, 123);
+    background-image:url(image/inquisidor.webp) ;
+    background-size: 400px;
+    padding: 50px;
+    border: 5px solid darkblue ;
+    float: left;
+}
+
+#esparza{ width: 300px;
+    height: 300px;
+    margin: 20px;
+    background-color: rgb(219, 255, 17);
+    background-image:url(image/frenando_esparza.png) ;
+    background-size: 400px;
+    padding: 50px;
+    border: 5px solid rgb(3, 77, 15) ;
+    float: left;
+}
+
+body{background-image: url(image/Halo-Unreal-2.jpg);
+background-size: cover;}
+
+@font-face {
+    font-family: halo;
+    src: url(/Personajes/font/Halo.ttf);
+}
+h1{
+    font-family: halo;
+    font-size: 100px;
+    text-align: center;
+}
